@@ -1,4 +1,4 @@
-# Waffle
-🧇 Custom Markdown grids!
+# 🧇 Waffle
+Custom Markdown grids!
 
 idk man
